@@ -1,4 +1,4 @@
-# Attendance-Using-Face-Recognition
+# Attendance-Using-Face-Recognition 
 
 Have you noticed that Facebook has developed an uncanny ability to recognize your friends in your photographs? In the old days, Facebook used to make you to tag your friends in photos by clicking on them and typing in their name. Now as soon as you upload a photo, Facebook tags everyone for you like magic:
 
@@ -6,7 +6,7 @@ Have you noticed that Facebook has developed an uncanny ability to recognize you
   <img src="images/facebook_reco.gif">
 </p>
 
-This technology is called face recognition. Facebook’s algorithms are able to recognize your friends’ faces after they have been tagged only a few times. It’s pretty amazing technology — Facebook can recognize faces with 98% accuracy which is pretty much as good as humans can do!
+This technology is called face recognition. Facebook’s ass algorithms are able to recognize your friends’ faces after they have been tagged only a few times. It’s pretty amazing technology — Facebook can recognize faces with 98% accuracy which is pretty much as good as humans can do!
 
 Let’s learn how modern face recognition works! But just recognizing your friends would be too easy. We can push this tech to the limit to solve a more challenging problem — telling Will Ferrell (famous actor) apart from Chad Smith (famous rock musician)!
 
